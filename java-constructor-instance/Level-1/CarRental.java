@@ -44,12 +44,6 @@ public class CarRental {
         CarRental customRental = new CarRental("John Doe", "Toyota Camry", 5);
         System.out.println("Custom Rental:");
         customRental.displayRental();
-
-        System.out.println();
-
-        
-        
-        
-        
+      
     }
 }
